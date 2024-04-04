@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(200,154,247);
+    
+    
+}
+.head{
+    background-color:rgb(205,104,222);
+    padding: 12px;
+    display: inline-block;
+    width: 10em;
+    color: white;
+    border-radius: .4em;
+}
+.section-1 h5, .section-2 h5, .section-3 h5{
+    background-color:rgb(205,104,222) ;
+    padding: 15px;
+    color: white;
+    display: inline-block;
+    border-radius: .3em;
+}
+.name{
+    font-size: 1.2em;
+}
+hr{
+    color: rgb(205,104,222) !important;
+}
+footer{
+    background-color:rgb(205,104,222) !important;
+    font-size: 1.2em;
+    font-weight: bolder;
+    margin-top: 3em;
+}
